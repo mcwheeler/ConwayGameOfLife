@@ -1,0 +1,10 @@
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\bin\Debug\netcoreapp2.0\hack-gol.deps.json
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\bin\Debug\netcoreapp2.0\hack-gol.runtimeconfig.json
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\bin\Debug\netcoreapp2.0\hack-gol.runtimeconfig.dev.json
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\bin\Debug\netcoreapp2.0\hack-gol.dll
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\bin\Debug\netcoreapp2.0\hack-gol.pdb
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\obj\Debug\netcoreapp2.0\hack-gol.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\obj\Debug\netcoreapp2.0\hack-gol.AssemblyInfoInputs.cache
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\obj\Debug\netcoreapp2.0\hack-gol.AssemblyInfo.cs
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\obj\Debug\netcoreapp2.0\hack-gol.dll
+C:\Users\paulo\Dropbox\universidade\tecci\hack-gol\obj\Debug\netcoreapp2.0\hack-gol.pdb
